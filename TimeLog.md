@@ -8,3 +8,4 @@
 | 1/30 | Week 3 videos | 1 | |
 | 1/31 | Ex 3 | 2 | Just about finished exercise 3. |
 | 2/1  | Project | .25 | Problem statement |
+| 2/1  | Ex 4 | 1 | Got exercise configured |
