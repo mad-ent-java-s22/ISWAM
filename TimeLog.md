@@ -7,3 +7,4 @@
 | 1/30 | Exercise 3 | 2 | |
 | 1/30 | Week 3 videos | 1 | |
 | 1/31 | Ex 3 | 2 | Just about finished exercise 3. |
+| 2/1  | Project | .25 | Problem statement |
