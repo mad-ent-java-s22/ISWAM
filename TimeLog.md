@@ -9,3 +9,8 @@
 | 1/31 | Ex 3 | 2 | Just about finished exercise 3. |
 | 2/1  | Project | .25 | Problem statement |
 | 2/1  | Ex 4 | 1 | Got exercise configured |
+| 2/1  | Ex 4 | 1 | Tried getting demo to work |
+| 2/2  | JPA & Hibernate | 5 | Read up on JPA & hibernate, took notes |
+| 2/2  | Class | 1 | Work time |
+| 2/3  | DAO tutorial | 1.5 |  |
+| 2/4  | JPA & Hibernate | 5 | Notes, LinkedIn Learning Tutorial |
